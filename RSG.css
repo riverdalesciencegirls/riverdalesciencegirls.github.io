@@ -392,32 +392,3 @@ hr {
 /* Contact bar end */
 
 
-/* 
-@media screen and (max-width: 768px) {
-
-    .circle {z-index: -1;
-        position: absolute;
-        top: -250px;
-        right: -400px;
-        height: 680px;
-        width: 780px;
-        overflow: hidden;
-        background-color: rgb(173, 236, 255);
-        border-radius: 50%;}
-    
-} */
-
-/* @media screen and (max-width: 1000px) {
-
-    #greeting {
-        z-index: 1;
-        text-shadow: 6px 6px #2e7c86;
-        letter-spacing: 20px;
-        position: absolute;
-        top: 180px;
-        left: 150px;
-        font-family: monaco,Consolas,Lucida Console,monospace; 
-        font-size: 80px;
-
-} */
-
